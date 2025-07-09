@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iksegola
 - 👀 I’m interested in learning data science
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects for data science and analysis
 - 📫 How to reach me 215274535@tut4life.ac.za
 
